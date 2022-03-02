@@ -1,11 +1,12 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Benvinguts al meu perfil 👋
 
 - 🌱 Estic estudiant a l'Institut de l'Ebre
 - 💬 Pots parlar-me al correu aleixmelich@iesebre.com
 - 😄 Tambe pots trobar-me com: Aleeix5
+- ⚽ M'agrada fer esport
+- 💻 M'apassiona l'informatica
 
+Deixo aqui algunes de les meves reds socials:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aleeix5)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aleeix5)
