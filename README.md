@@ -1,2 +1,3 @@
-### Benvinguts al meu perfil 👋
+### GITHUB PERSONAL
+aleixmelich@iesebre.com
 
